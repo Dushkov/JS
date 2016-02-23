@@ -1,7 +1,7 @@
 var shopping_cart = [
 	{ product : 'T-shirt', price : 10 },
 	{ product : 'Jeans', price : 69.9 },
-        { product : 'Jackets', price : 119.99 }
+    { product : 'Jacket', price : 119.99 }
 ];
    
 shopping_cart.forEach ( function ( item ) {
